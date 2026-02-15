@@ -26,5 +26,3 @@ Como evolución futura del proyecto se podría:
 - Mejorar la validación de entradas
 - Separar mejor la interfaz de usuario
 - Añadir pruebas básicas
-
-Proyecto realizado con fines formativos y de aprendizaje.
